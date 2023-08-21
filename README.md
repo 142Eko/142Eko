@@ -4,10 +4,12 @@ What are you looking for?
     <img src="https://github.com/142Eko/142Eko/assets/101800287/446b21c1-75f5-4d11-bc0e-b84314cead63" alt="animated" />
 </p>
 
-# BANGKIT
-Certificates
-[]Coursera Python
+# BANGKIT ML-54 2023
+## Certificates
 
+- [x] [Coursera | Crash Course on Python](@://coursera.org/share/4da58c51edd2724c476767bcfe60d67c) <!-- ganti @ dengan https -->
+- [ ] [Coursera | Using Python to Interact with the Operating System]
+- [ ] [Coursera | Introduction to Git and GitHub]
 <!--
 <p align="left">
 <a href="https://github.com/142Eko">
