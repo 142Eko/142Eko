@@ -3,6 +3,7 @@ What are you looking for?
 <p align="center">
     <img src="https://github.com/142Eko/142Eko/assets/101800287/446b21c1-75f5-4d11-bc0e-b84314cead63" alt="animated" />
 </p>
+# BANGKIT
 
 <!--
 <p align="left">
