@@ -7,9 +7,13 @@ What are you looking for?
 # BANGKIT ML-54 2023
 ## Certificates
 
-- [x] [Coursera | Crash Course on Python](@://coursera.org/share/4da58c51edd2724c476767bcfe60d67c) <!-- ganti @ dengan https -->
-- [ ] [Coursera | Using Python to Interact with the Operating System]
-- [ ] [Coursera | Introduction to Git and GitHub]
+- [x] [Coursera | Crash Course on Python](https://coursera.org/share/4da58c51edd2724c476767bcfe60d67c) <!-- ganti @ dengan https -->
+- [x] [Coursera | Using Python to Interact with the Operating System](https://coursera.org/share/1c411901fe10f0e0ef7cf6d6d3f775cb)
+- [x] [Coursera | Introduction to Git and GitHub](https://coursera.org/share/c419c5df1ec0e6885409b800bea8913b)
+- [x] [Dicoding | Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/98XWGDJJ9PM3)
+- [x] [Dicoding | Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/1RXY65J7KZVM)
+- [x] [Dicoding | Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/2VX3J9QMQPYQ)
+
 <!--
 <p align="left">
 <a href="https://github.com/142Eko">
