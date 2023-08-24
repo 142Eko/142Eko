@@ -1,5 +1,6 @@
-# HEHE BOII! 
-What are you looking for?
+# LET'S KNOW EACH OTHER! 
+Hello guys,<br>
+My name Eko Rachmat Satriyo
 <!---
 <p align="center">
     <img src="https://github.com/142Eko/142Eko/assets/101800287/446b21c1-75f5-4d11-bc0e-b84314cead63" alt="animated" />
