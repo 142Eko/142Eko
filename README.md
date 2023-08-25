@@ -18,16 +18,18 @@ For now, i'm focus on Machine Learning Bangkit Academy
 - [x] [Dicoding | Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/1RXY65J7KZVM)
 - [x] [Dicoding | Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/2VX3J9QMQPYQ)
 
+<!--
 ## My CV
 <p align="center">
     <img width="581" alt="CV" src="https://github.com/142Eko/142Eko/assets/101800287/1975c065-78e9-4f9c-9d08-b801b4a9a59c">
 </p>
+-->
 
-<!--
+
 <p align="left">
 <a href="https://github.com/142Eko">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=142Eko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=142Eko&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
--->
+
