@@ -1,6 +1,7 @@
 # LET'S KNOW EACH OTHER! 
 Hello guys,<br>
-My name Eko Rachmat Satriyo
+My name Eko Rachmat Satriyo<br>
+For now, i'm focus on Machine Learning Bangkit Academy 
 <!---
 <p align="center">
     <img src="https://github.com/142Eko/142Eko/assets/101800287/446b21c1-75f5-4d11-bc0e-b84314cead63" alt="animated" />
@@ -16,6 +17,11 @@ My name Eko Rachmat Satriyo
 - [x] [Dicoding | Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/98XWGDJJ9PM3)
 - [x] [Dicoding | Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/1RXY65J7KZVM)
 - [x] [Dicoding | Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/2VX3J9QMQPYQ)
+
+## My CV
+<p align="center">
+    <img width="581" alt="CV" src="https://github.com/142Eko/142Eko/assets/101800287/1975c065-78e9-4f9c-9d08-b801b4a9a59c">
+</p>
 
 <!--
 <p align="left">
