@@ -33,3 +33,8 @@ For now, i'm focus on Machine Learning Bangkit Academy
 </a>
 </p>
 
+<!--
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=142Eko&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=142Eko&langs_count=5&theme=tokyonight)]()
+-->
+
