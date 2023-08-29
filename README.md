@@ -18,6 +18,8 @@ For now, i'm focus on Machine Learning Bangkit Academy
 - [x] [Dicoding | Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/1RXY65J7KZVM)
 - [x] [Dicoding | Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/2VX3J9QMQPYQ)
 
+
+![](https://komarev.com/ghpvc/?username=142Eko&color=brightgreen)
 <!--
 ## My CV
 <p align="center">
