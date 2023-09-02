@@ -19,6 +19,7 @@ For now, i'm focus on Machine Learning Bangkit Academy
 - [x] [Coursera | Introduction to Git and GitHub](https://coursera.org/share/c419c5df1ec0e6885409b800bea8913b)
 - [x] [Coursera | Foundations: Data, Data, Everywhere](https://coursera.org/share/25dcc76c0f2753c409313692be56edfd)
 - [x] [Coursera | Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/cf4277a65d330735abcb14338b25d23b)
+- [x] [Coursera | Prepare Data For Exploration](https://coursera.org/share/bf9c66cea3dd7eafadc005b02b758a34)
 ---
 ### Dicoding
 - [x] [Dicoding | Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/98XWGDJJ9PM3)
