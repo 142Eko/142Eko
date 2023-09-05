@@ -39,8 +39,8 @@ For now, i'm focus on Machine Learning Bangkit Academy
 <!--Stats-->
 <p align="left">
     <a href="https://github.com/142Eko">
-        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=142Eko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=142Eko&layout=compact&langs_count=8&theme=algolia"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=142Eko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=142Eko&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
 <!--EndStats-->
