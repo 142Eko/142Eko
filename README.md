@@ -23,7 +23,7 @@ For now, i'm focus on Machine Learning Bangkit Academy
 - [x] [Coursera | Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/cf4277a65d330735abcb14338b25d23b)
 - [x] [Coursera | Prepare Data For Exploration](https://coursera.org/share/bec2977013236e8fc24a2883fcbc4c27)
 - [x] [Coursera | Analyze Data to answer Questions](https://coursera.org/share/2f793393fe92f00af267593c6f6b4224)
-- [ ] [Coursera | Share Data Through the Art of Visualization] (https://coursera.org/share/094f1be1b21df79e777ffb0db429c6cc)
+- [x] [Coursera | Share Data Through the Art of Visualization](https://coursera.org/share/094f1be1b21df79e777ffb0db429c6cc)
 ---
 ### Dicoding
 - [x] [Dicoding | Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/98XWGDJJ9PM3)
