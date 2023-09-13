@@ -20,7 +20,7 @@ For now, i'm focus on Machine Learning Bangkit Academy
 - [x] [Coursera | Using Python to Interact with the Operating System](https://coursera.org/share/1c411901fe10f0e0ef7cf6d6d3f775cb)
 - [x] [Coursera | Introduction to Git and GitHub](https://coursera.org/share/c419c5df1ec0e6885409b800bea8913b)
 - [x] [Coursera | Troubleshooting and Debugging Techniques](https://coursera.org/share/d7f60d93326b4d4e62c69c0e23921abf)
-- [x][Couresera | Configuration Management and the Cloud](https://coursera.org/share/c5e5f998334318d2d0382864f8d31fb2) 
+- [x] [Couresera | Configuration Management and the Cloud](https://coursera.org/share/c5e5f998334318d2d0382864f8d31fb2) 
 ##### Coursera Google Data Analytics
 - [x] [Coursera | Foundations: Data, Data, Everywhere](https://coursera.org/share/25dcc76c0f2753c409313692be56edfd)
 - [x] [Coursera | Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/cf4277a65d330735abcb14338b25d23b)
