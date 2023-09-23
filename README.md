@@ -29,6 +29,10 @@ For now, i'm focus on Machine Learning Bangkit Academy
 - [x] [Coursera | Process Data from Dirty to Clean](https://coursera.org/share/54a2a29a961699aa65c4c337cdb18e86)
 - [x] [Coursera | Analyze Data to answer Questions](https://coursera.org/share/2f793393fe92f00af267593c6f6b4224)
 - [x] [Coursera | Share Data Through the Art of Visualization](https://coursera.org/share/094f1be1b21df79e777ffb0db429c6cc)
+##### Mathematics for Machine Learning and Data Science Specialization
+- [x] [DeepLearning.AI | Linear Algebra for Machine Learning and Data Science](https://coursera.org/share/4fd89b15d585666bba6daeb303e21d44)
+- [x] [DeepLearning.AI | Calculus for Machine Learning and Data Science](https://coursera.org/share/58274e0161e15fa38611ca52518ce261)
+- [ ] [DeepLearning.AI | Probability & Statistics for Machine Learning & Data Science]()
 ---
 ### Dicoding
 - [x] [Dicoding | Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/98XWGDJJ9PM3)
