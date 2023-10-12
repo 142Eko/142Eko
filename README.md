@@ -36,6 +36,7 @@ For now, i'm focus on Machine Learning Bangkit Academy
 ---
 #### Machine Learning
 - [x] [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/4ad68b6f5e381d8df72663590df73cf8)
+- [x] [Advanced Learning Algorithms](https://coursera.org/share/ab6e64ebf51111fa716e8a8384e70690)
 ---
 ### Dicoding
 - [x] [Dicoding | Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/98XWGDJJ9PM3)
