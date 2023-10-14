@@ -34,7 +34,7 @@ For now, i'm focus on Machine Learning Bangkit Academy
 - [x] [DeepLearning.AI | Calculus for Machine Learning and Data Science](https://coursera.org/share/58274e0161e15fa38611ca52518ce261)
 - [x] [DeepLearning.AI | Probability & Statistics for Machine Learning & Data Science](https://coursera.org/share/5e1201bfa2acbad8eae2c7c1e6a7db9f)<br><br>
 ---
-#### [Machine Learning] (https://coursera.org/share/f1d37fbdb0b1aa56e1c30d203e2ddc20)
+#### [Machine Learning](https://coursera.org/share/f1d37fbdb0b1aa56e1c30d203e2ddc20)
 - [x] [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/4ad68b6f5e381d8df72663590df73cf8)
 - [x] [Advanced Learning Algorithms](https://coursera.org/share/ab6e64ebf51111fa716e8a8384e70690)
 - [x] [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/9d918fc2b42b27d0c75aa7e6ac9cd12e)
