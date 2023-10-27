@@ -28,7 +28,10 @@ For now, i'm focus on Machine Learning Bangkit Academy
 - [x] [Coursera | Prepare Data For Exploration](https://coursera.org/share/bec2977013236e8fc24a2883fcbc4c27)
 - [x] [Coursera | Process Data from Dirty to Clean](https://coursera.org/share/54a2a29a961699aa65c4c337cdb18e86)
 - [x] [Coursera | Analyze Data to answer Questions](https://coursera.org/share/2f793393fe92f00af267593c6f6b4224)
-- [x] [Coursera | Share Data Through the Art of Visualization](https://coursera.org/share/094f1be1b21df79e777ffb0db429c6cc)<br><br>
+- [x] [Coursera | Share Data Through the Art of Visualization](https://coursera.org/share/094f1be1b21df79e777ffb0db429c6cc)
+- [x] [Coursera | Data Analysis with R Programming](https://coursera.org/share/0134ea56d59af119cd536e07c8ed9a0a)
+
+<br>
 ##### [Mathematics for Machine Learning and Data Science Specialization](https://coursera.org/share/7d82b364e2e62eeea7eabb2667c6241c)<br>
 - [x] [DeepLearning.AI | Linear Algebra for Machine Learning and Data Science](https://coursera.org/share/4fd89b15d585666bba6daeb303e21d44)
 - [x] [DeepLearning.AI | Calculus for Machine Learning and Data Science](https://coursera.org/share/58274e0161e15fa38611ca52518ce261)
@@ -39,10 +42,15 @@ For now, i'm focus on Machine Learning Bangkit Academy
 - [x] [Advanced Learning Algorithms](https://coursera.org/share/ab6e64ebf51111fa716e8a8384e70690)
 - [x] [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/9d918fc2b42b27d0c75aa7e6ac9cd12e)
 ---
+#### DeepLearning.AI TensorFlow Developer
+- [x] [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/3353d81b01791da0c95438b7edbb444a)
+
+---
 ### Dicoding
 - [x] [Dicoding | Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/98XWGDJJ9PM3)
 - [x] [Dicoding | Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/1RXY65J7KZVM)
 - [x] [Dicoding | Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/2VX3J9QMQPYQ)
+
 <!--End Certificates-->
 
 <!--CV-->
