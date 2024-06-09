@@ -5,6 +5,7 @@ Hello guys,<br>
 # BANGKIT ML-54 2023
 <!--Certificates-->
 ## Certificates
+- [x] [Tensorflow | TFD](https://www.credential.net/b0b7de60-a237-4aa8-ad54-b54708fdd245)
 ---
 ### Coursera
 
